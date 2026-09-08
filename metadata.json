@@ -1,0 +1,6 @@
+{
+  "name": "Sitio Web Dinámico Completo",
+  "description": "Sitio web completo y dinámico con navegación por pestañas funcionales: Inicio, Productos con carrito, Servicios interactivos, Galería con visor, Blog con comentarios, Nosotros y Contacto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
